@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Tambahkan CSS ini ke file CSS Anda atau gunakan styled-components di React */
+.hovered {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .hovered:hover {
+    transform: scale(1.1); /* Atur faktor zoom sesuai kebutuhan */
+  }
+  
+  .zoomed {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .zoomed:hover {
+    transform: scale(1.1); /* Atur faktor zoom sesuai kebutuhan */
+  }
+  
+  /* Tambahan CSS dalam file Anda */
+  @media (max-width: 640px) {
+    .grid-cols-4 {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+  }
+  .pagination {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    list-style: none;
+    margin-top: 10px;
+  }
+  
+  .previous,
+  .next {
+    cursor: pointer;
+  }
+  
+  .disabled {
+    pointer-events: none;
+    color: #ccc;
+  }
+  
+  .active {
+    font-weight: bold;
+  }
+  
+  
