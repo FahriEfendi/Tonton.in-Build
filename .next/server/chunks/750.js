@@ -1,0 +1,10 @@
+"use strict";exports.id=750,exports.ids=[750],exports.modules={9750:(e,t,r)=>{r.d(t,{UO:()=>v});var a,s,o=r(3729);/**
+ * @remix-run/router v1.15.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */function n(){return(n=Object.assign?Object.assign.bind():function(e){for(var t=1;t<arguments.length;t++){var r=arguments[t];for(var a in r)Object.prototype.hasOwnProperty.call(r,a)&&(e[a]=r[a])}return e}).apply(this,arguments)}!function(e){e.Pop="POP",e.Push="PUSH",e.Replace="REPLACE"}(a||(a={}));function i(e){let t={};if(e){let r=e.indexOf("#");r>=0&&(t.hash=e.substr(r),e=e.substr(0,r));let a=e.indexOf("?");a>=0&&(t.search=e.substr(a),e=e.substr(0,a)),e&&(t.pathname=e)}return t}!function(e){e.data="data",e.deferred="deferred",e.redirect="redirect",e.error="error"}(s||(s={}));let u=new Set(["lazy","caseSensitive","path","id","index","children"]);class c{constructor(e,t,r,a){void 0===a&&(a=!1),this.status=e,this.statusText=t||"",this.internal=a,r instanceof Error?(this.data=r.toString(),this.error=r):this.data=r}}let d=["post","put","patch","delete"],l=new Set(d),h=["get",...d];Symbol("deferred");let p=o.createContext({outlet:null,matches:[],isDataRoute:!1}),f=o.createContext(null);function v(){let{matches:e}=o.useContext(p),t=e[e.length-1];return t?t.params:{}}o.Component;var U=function(e){return e.UseBlocker="useBlocker",e.UseRevalidator="useRevalidator",e.UseNavigateStable="useNavigate",e}(U||{}),g=function(e){return e.UseBlocker="useBlocker",e.UseLoaderData="useLoaderData",e.UseActionData="useActionData",e.UseRouteError="useRouteError",e.UseNavigation="useNavigation",e.UseRouteLoaderData="useRouteLoaderData",e.UseMatches="useMatches",e.UseRevalidator="useRevalidator",e.UseNavigateStable="useNavigate",e.UseRouteId="useRouteId",e}(g||{});o.startTransition;var R=function(e){return e[e.pending=0]="pending",e[e.success=1]="success",e[e.error=2]="error",e}(R||{});new Promise(()=>{}),o.Component}};

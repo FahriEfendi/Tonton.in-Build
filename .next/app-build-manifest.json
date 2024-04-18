@@ -1,0 +1,74 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-fe6781cd1008ca2e.js",
+      "static/chunks/fd9d1056-c62ab7eac5c4e68e.js",
+      "static/chunks/69-5edeae1444856276.js",
+      "static/chunks/main-app-511932a60f9a6cd2.js",
+      "static/chunks/app/_not-found-522641258e90c385.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-fe6781cd1008ca2e.js",
+      "static/chunks/fd9d1056-c62ab7eac5c4e68e.js",
+      "static/chunks/69-5edeae1444856276.js",
+      "static/chunks/main-app-511932a60f9a6cd2.js",
+      "static/chunks/563-a1692fb66852d63b.js",
+      "static/css/5afa2ba30d1aa00c.css",
+      "static/chunks/app/layout-3bac33a61c6800a4.js"
+    ],
+    "/bokep-indo/meru-chan-hijab-1/page": [
+      "static/chunks/webpack-fe6781cd1008ca2e.js",
+      "static/chunks/fd9d1056-c62ab7eac5c4e68e.js",
+      "static/chunks/69-5edeae1444856276.js",
+      "static/chunks/main-app-511932a60f9a6cd2.js",
+      "static/chunks/8e1d74a4-4b6c7a131ff69341.js",
+      "static/chunks/4b1a69f1-c4b4f670240c59ad.js",
+      "static/chunks/563-a1692fb66852d63b.js",
+      "static/chunks/795-986b21b8b54efc8e.js",
+      "static/chunks/387-bf912379bcb3331c.js",
+      "static/chunks/app/bokep-indo/meru-chan-hijab-1/page-984ae4863dded36a.js"
+    ],
+    "/category/bokep-indo/page": [
+      "static/chunks/webpack-fe6781cd1008ca2e.js",
+      "static/chunks/fd9d1056-c62ab7eac5c4e68e.js",
+      "static/chunks/69-5edeae1444856276.js",
+      "static/chunks/main-app-511932a60f9a6cd2.js",
+      "static/chunks/8e1d74a4-4b6c7a131ff69341.js",
+      "static/chunks/e34aaff9-f71700ab041bb36a.js",
+      "static/chunks/563-a1692fb66852d63b.js",
+      "static/chunks/795-986b21b8b54efc8e.js",
+      "static/chunks/89-46d1893b47ad1b86.js",
+      "static/chunks/app/category/bokep-indo/page-2704ae4552ec3d6c.js"
+    ],
+    "/category/bokep-tante/page": [
+      "static/chunks/webpack-fe6781cd1008ca2e.js",
+      "static/chunks/fd9d1056-c62ab7eac5c4e68e.js",
+      "static/chunks/69-5edeae1444856276.js",
+      "static/chunks/main-app-511932a60f9a6cd2.js",
+      "static/chunks/app/category/bokep-tante/page-44d69185514c5250.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-fe6781cd1008ca2e.js",
+      "static/chunks/fd9d1056-c62ab7eac5c4e68e.js",
+      "static/chunks/69-5edeae1444856276.js",
+      "static/chunks/main-app-511932a60f9a6cd2.js",
+      "static/chunks/8e1d74a4-4b6c7a131ff69341.js",
+      "static/chunks/563-a1692fb66852d63b.js",
+      "static/chunks/795-986b21b8b54efc8e.js",
+      "static/chunks/89-46d1893b47ad1b86.js",
+      "static/chunks/app/page-af5c1cf75e73664d.js"
+    ],
+    "/videos/naruto-meme/page": [
+      "static/chunks/webpack-fe6781cd1008ca2e.js",
+      "static/chunks/fd9d1056-c62ab7eac5c4e68e.js",
+      "static/chunks/69-5edeae1444856276.js",
+      "static/chunks/main-app-511932a60f9a6cd2.js",
+      "static/chunks/8e1d74a4-4b6c7a131ff69341.js",
+      "static/chunks/4b1a69f1-c4b4f670240c59ad.js",
+      "static/chunks/563-a1692fb66852d63b.js",
+      "static/chunks/795-986b21b8b54efc8e.js",
+      "static/chunks/387-bf912379bcb3331c.js",
+      "static/chunks/app/videos/naruto-meme/page-2a4947e36fb4fd53.js"
+    ]
+  }
+}
