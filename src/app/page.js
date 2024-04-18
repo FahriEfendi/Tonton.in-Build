@@ -40,7 +40,7 @@ function Dashboard() {
   }, []);
 
   const getAllVid = async () => {
-    const response = await axios.get(`http://localhost:8080/getallvideos`);
+    const response = await axios.get(`http://103.84.207.139:8080/getallvideos`);
     setVidData(response.data);
   };
   const displayVideos = vidData &&vidData.data &&vidData.data.filter((video) => video.title && video.title.toLowerCase())

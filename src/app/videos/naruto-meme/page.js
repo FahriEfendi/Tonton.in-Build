@@ -35,7 +35,7 @@ export default function Naruto({ videoId }) {
     const getCharId = async () => {
       try {
         const response = await axios.get(
-          `http://localhost:8080/getvideos/4734da25-ae1c-48df-a39b-2f34f9cdea7e`
+          `http://103.84.207.139:8080/getvideos/4734da25-ae1c-48df-a39b-2f34f9cdea7e`
         );
         setTitle(response.data.data.title);
         setLike(response.data.data.vid_like);
@@ -393,7 +393,7 @@ export default function Naruto({ videoId }) {
               <div className="relative h-0" style={{ paddingBottom: "56.25%" }}>
                 <iframe
                   className="absolute top-0 left-0 w-full h-full"
-                  src="https://www.youtube.com/embed/XDuqUVo9Q7c?si=Bx1D0m0phtXRfosF"
+                  src="https://www.youtube.com/embed/dxIG9JtakBM?si=2HHMGoHKxKsdxGNx"
                   title="YouTube video player"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
