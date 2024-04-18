@@ -20,7 +20,7 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
 }
 
-export default function meruchanhijab1({ videoId }) {
+export default function Meruchanhijab1({ videoId }) {
   const { characterId } = useParams();
   const [title, setTitle] = useState("");
   const [like, setLike] = useState("");
@@ -324,11 +324,13 @@ export default function meruchanhijab1({ videoId }) {
                 <div className="flex h-16 items-center justify-between">
                   <div className="flex items-center">
                     <div className="flex-shrink-0">
+                    <picture>
                       <img
                         className="h-8 w-8"
                         src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
                         alt="Your Company"
                       />
+                      </picture>
                     </div>
                     <div className="hidden md:block">
                       <div className="ml-10 flex items-baseline space-x-4">

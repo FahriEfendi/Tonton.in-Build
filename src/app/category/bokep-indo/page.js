@@ -50,12 +50,14 @@ function Dashboard() {
         href={`/video/${video.slug}`}
         className="relative bg-black p-1 rounded-md mb-4 hovered mr-4"
       >
+         <picture>
         <img
           className="rounded-md mb-1 h-24 w-52"
           src={video.vid_thumbnail}
           loading="lazy"
           alt="char"
         />
+         </picture>
         <div
           className="absolute inset-x-0 bottom-0 text-center flex space-x-4 justify-between"
         >
@@ -95,11 +97,13 @@ function Dashboard() {
               <div className="flex h-16 items-center justify-between">
                 <div className="flex items-center">
                   <div className="flex-shrink-0">
+                  <picture>
                     <img
                       className="h-8 w-8"
                       src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
                       alt="Your Company"
                     />
+                    </picture>
                   </div>
                   <div className="hidden md:block">
                     <div className="ml-10 flex items-baseline space-x-4">
